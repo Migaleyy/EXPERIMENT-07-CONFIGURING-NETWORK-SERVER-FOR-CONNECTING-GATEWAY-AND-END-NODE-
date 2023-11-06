@@ -54,8 +54,3 @@ To set APP Key
 ## RESULTS:
 The Network server and end device for traferring data on the network has been accomplished.
 
-
-## Results: 
-
-  The Network server and end device for traferring data on the network has been accomplished.
-
